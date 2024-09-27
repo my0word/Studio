@@ -1,0 +1,256 @@
+E:\Эдик\МДК 03.02\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.LoginForm.resources
+E:\Эдик\МДК 03.02\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.csproj.GenerateResource.cache
+E:\Эдик\МДК 03.02\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.GeneratedMSBuildEditorConfig.editorconfig
+E:\Эдик\МДК 03.02\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.AssemblyInfoInputs.cache
+E:\Эдик\МДК 03.02\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.AssemblyInfo.cs
+E:\Эдик\МДК 03.02\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.csproj.CoreCompileInputs.cache
+E:\Эдик\МДК 03.02\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EdikIvan.exe
+E:\Эдик\МДК 03.02\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EdikIvan.deps.json
+E:\Эдик\МДК 03.02\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EdikIvan.runtimeconfig.json
+E:\Эдик\МДК 03.02\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EdikIvan.dll
+E:\Эдик\МДК 03.02\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EdikIvan.pdb
+E:\Эдик\МДК 03.02\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.ChooseForm.resources
+E:\Эдик\МДК 03.02\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.MainForm.resources
+E:\Эдик\МДК 03.02\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.dll
+E:\Эдик\МДК 03.02\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\refint\EdikIvan.dll
+E:\Эдик\МДК 03.02\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.pdb
+E:\Эдик\МДК 03.02\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.genruntimeconfig.cache
+E:\Эдик\МДК 03.02\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\ref\EdikIvan.dll
+C:\Users\lol\Downloads\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EdikIvan.exe
+C:\Users\lol\Downloads\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EdikIvan.deps.json
+C:\Users\lol\Downloads\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EdikIvan.runtimeconfig.json
+C:\Users\lol\Downloads\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EdikIvan.dll
+C:\Users\lol\Downloads\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EdikIvan.pdb
+C:\Users\lol\Downloads\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\lol\Downloads\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\lol\Downloads\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\lol\Downloads\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\lol\Downloads\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\lol\Downloads\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lol\Downloads\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lol\Downloads\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lol\Downloads\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\lol\Downloads\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\lol\Downloads\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\lol\Downloads\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\lol\Downloads\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lol\Downloads\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lol\Downloads\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.csproj.AssemblyReference.cache
+C:\Users\lol\Downloads\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.ChooseForm.resources
+C:\Users\lol\Downloads\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.LoginForm.resources
+C:\Users\lol\Downloads\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.MainForm.resources
+C:\Users\lol\Downloads\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.csproj.GenerateResource.cache
+C:\Users\lol\Downloads\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lol\Downloads\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.AssemblyInfoInputs.cache
+C:\Users\lol\Downloads\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.AssemblyInfo.cs
+C:\Users\lol\Downloads\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.csproj.CoreCompileInputs.cache
+C:\Users\lol\Downloads\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.csproj.Up2Date
+C:\Users\lol\Downloads\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.dll
+C:\Users\lol\Downloads\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\refint\EdikIvan.dll
+C:\Users\lol\Downloads\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.pdb
+C:\Users\lol\Downloads\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.genruntimeconfig.cache
+C:\Users\lol\Downloads\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\ref\EdikIvan.dll
+E:\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EdikIvan.exe
+E:\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EdikIvan.deps.json
+E:\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EdikIvan.runtimeconfig.json
+E:\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EdikIvan.dll
+E:\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EdikIvan.pdb
+E:\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+E:\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EntityFramework.dll
+E:\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+E:\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+E:\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+E:\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+E:\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+E:\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+E:\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.csproj.AssemblyReference.cache
+E:\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.ChooseForm.resources
+E:\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.MainForm.resources
+E:\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.csproj.GenerateResource.cache
+E:\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.AssemblyInfoInputs.cache
+E:\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.AssemblyInfo.cs
+E:\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.csproj.CoreCompileInputs.cache
+E:\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.csproj.Up2Date
+E:\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.dll
+E:\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\refint\EdikIvan.dll
+E:\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.pdb
+E:\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.genruntimeconfig.cache
+E:\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\ref\EdikIvan.dll
+E:\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.LogForm.resources
+C:\Users\lol\Downloads\Ghoose2\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EdikIvan.exe
+C:\Users\lol\Downloads\Ghoose2\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EdikIvan.deps.json
+C:\Users\lol\Downloads\Ghoose2\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EdikIvan.runtimeconfig.json
+C:\Users\lol\Downloads\Ghoose2\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EdikIvan.dll
+C:\Users\lol\Downloads\Ghoose2\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EdikIvan.pdb
+C:\Users\lol\Downloads\Ghoose2\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\lol\Downloads\Ghoose2\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\lol\Downloads\Ghoose2\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\lol\Downloads\Ghoose2\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\lol\Downloads\Ghoose2\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\lol\Downloads\Ghoose2\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lol\Downloads\Ghoose2\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lol\Downloads\Ghoose2\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lol\Downloads\Ghoose2\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\lol\Downloads\Ghoose2\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\lol\Downloads\Ghoose2\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\lol\Downloads\Ghoose2\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\lol\Downloads\Ghoose2\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lol\Downloads\Ghoose2\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lol\Downloads\Ghoose2\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.csproj.AssemblyReference.cache
+C:\Users\lol\Downloads\Ghoose2\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.ChooseForm.resources
+C:\Users\lol\Downloads\Ghoose2\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.LogForm.resources
+C:\Users\lol\Downloads\Ghoose2\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.MainForm.resources
+C:\Users\lol\Downloads\Ghoose2\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.csproj.GenerateResource.cache
+C:\Users\lol\Downloads\Ghoose2\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lol\Downloads\Ghoose2\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.AssemblyInfoInputs.cache
+C:\Users\lol\Downloads\Ghoose2\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.AssemblyInfo.cs
+C:\Users\lol\Downloads\Ghoose2\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.csproj.CoreCompileInputs.cache
+C:\Users\lol\Downloads\Ghoose2\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.csproj.Up2Date
+C:\Users\lol\Downloads\Ghoose2\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.dll
+C:\Users\lol\Downloads\Ghoose2\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\refint\EdikIvan.dll
+C:\Users\lol\Downloads\Ghoose2\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.pdb
+C:\Users\lol\Downloads\Ghoose2\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.genruntimeconfig.cache
+C:\Users\lol\Downloads\Ghoose2\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\ref\EdikIvan.dll
+E:\Ghoose2\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EdikIvan.exe
+E:\Ghoose2\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EdikIvan.deps.json
+E:\Ghoose2\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EdikIvan.runtimeconfig.json
+E:\Ghoose2\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EdikIvan.dll
+E:\Ghoose2\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EdikIvan.pdb
+E:\Ghoose2\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+E:\Ghoose2\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EntityFramework.dll
+E:\Ghoose2\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+E:\Ghoose2\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\Ghoose2\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+E:\Ghoose2\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Ghoose2\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\Ghoose2\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\Ghoose2\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+E:\Ghoose2\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+E:\Ghoose2\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+E:\Ghoose2\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+E:\Ghoose2\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Ghoose2\Ghoose2\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Ghoose2\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.csproj.AssemblyReference.cache
+E:\Ghoose2\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.ChooseForm.resources
+E:\Ghoose2\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.LogForm.resources
+E:\Ghoose2\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.MainForm.resources
+E:\Ghoose2\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.csproj.GenerateResource.cache
+E:\Ghoose2\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ghoose2\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.AssemblyInfoInputs.cache
+E:\Ghoose2\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.AssemblyInfo.cs
+E:\Ghoose2\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.csproj.CoreCompileInputs.cache
+E:\Ghoose2\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.csproj.Up2Date
+E:\Ghoose2\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.dll
+E:\Ghoose2\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\refint\EdikIvan.dll
+E:\Ghoose2\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.pdb
+E:\Ghoose2\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.genruntimeconfig.cache
+E:\Ghoose2\Ghoose2\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\ref\EdikIvan.dll
+F:\МДК 03.02\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EdikIvan.exe
+F:\МДК 03.02\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EdikIvan.deps.json
+F:\МДК 03.02\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EdikIvan.runtimeconfig.json
+F:\МДК 03.02\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EdikIvan.dll
+F:\МДК 03.02\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EdikIvan.pdb
+F:\МДК 03.02\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+F:\МДК 03.02\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EntityFramework.dll
+F:\МДК 03.02\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+F:\МДК 03.02\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+F:\МДК 03.02\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+F:\МДК 03.02\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+F:\МДК 03.02\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+F:\МДК 03.02\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+F:\МДК 03.02\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+F:\МДК 03.02\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+F:\МДК 03.02\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+F:\МДК 03.02\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+F:\МДК 03.02\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\МДК 03.02\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\МДК 03.02\EdikIvan (2)\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.csproj.AssemblyReference.cache
+F:\МДК 03.02\EdikIvan (2)\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.ChooseForm.resources
+F:\МДК 03.02\EdikIvan (2)\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.LogForm.resources
+F:\МДК 03.02\EdikIvan (2)\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.MainForm.resources
+F:\МДК 03.02\EdikIvan (2)\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.csproj.GenerateResource.cache
+F:\МДК 03.02\EdikIvan (2)\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.GeneratedMSBuildEditorConfig.editorconfig
+F:\МДК 03.02\EdikIvan (2)\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.AssemblyInfoInputs.cache
+F:\МДК 03.02\EdikIvan (2)\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.AssemblyInfo.cs
+F:\МДК 03.02\EdikIvan (2)\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.csproj.CoreCompileInputs.cache
+F:\МДК 03.02\EdikIvan (2)\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.csproj.Up2Date
+F:\МДК 03.02\EdikIvan (2)\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.dll
+F:\МДК 03.02\EdikIvan (2)\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\refint\EdikIvan.dll
+F:\МДК 03.02\EdikIvan (2)\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.pdb
+F:\МДК 03.02\EdikIvan (2)\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.genruntimeconfig.cache
+F:\МДК 03.02\EdikIvan (2)\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\ref\EdikIvan.dll
+E:\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EdikIvan.exe
+E:\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EdikIvan.deps.json
+E:\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EdikIvan.runtimeconfig.json
+E:\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EdikIvan.dll
+E:\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EdikIvan.pdb
+E:\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+E:\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EntityFramework.dll
+E:\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+E:\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+E:\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+E:\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+E:\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+E:\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+E:\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\EdikIvan (2)\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.csproj.AssemblyReference.cache
+E:\EdikIvan (2)\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.ChooseForm.resources
+E:\EdikIvan (2)\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.LogForm.resources
+E:\EdikIvan (2)\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.MainForm.resources
+E:\EdikIvan (2)\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.csproj.GenerateResource.cache
+E:\EdikIvan (2)\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.GeneratedMSBuildEditorConfig.editorconfig
+E:\EdikIvan (2)\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.AssemblyInfoInputs.cache
+E:\EdikIvan (2)\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.AssemblyInfo.cs
+E:\EdikIvan (2)\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.csproj.CoreCompileInputs.cache
+E:\EdikIvan (2)\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.csproj.Up2Date
+E:\EdikIvan (2)\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.dll
+E:\EdikIvan (2)\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\refint\EdikIvan.dll
+E:\EdikIvan (2)\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.pdb
+E:\EdikIvan (2)\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.genruntimeconfig.cache
+E:\EdikIvan (2)\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\ref\EdikIvan.dll
+C:\Users\lol\Downloads\EdikIvan (2)\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EdikIvan.exe
+C:\Users\lol\Downloads\EdikIvan (2)\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EdikIvan.deps.json
+C:\Users\lol\Downloads\EdikIvan (2)\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EdikIvan.runtimeconfig.json
+C:\Users\lol\Downloads\EdikIvan (2)\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EdikIvan.dll
+C:\Users\lol\Downloads\EdikIvan (2)\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EdikIvan.pdb
+C:\Users\lol\Downloads\EdikIvan (2)\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\lol\Downloads\EdikIvan (2)\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\lol\Downloads\EdikIvan (2)\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\lol\Downloads\EdikIvan (2)\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\lol\Downloads\EdikIvan (2)\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\lol\Downloads\EdikIvan (2)\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lol\Downloads\EdikIvan (2)\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lol\Downloads\EdikIvan (2)\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lol\Downloads\EdikIvan (2)\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\lol\Downloads\EdikIvan (2)\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\lol\Downloads\EdikIvan (2)\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\lol\Downloads\EdikIvan (2)\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\lol\Downloads\EdikIvan (2)\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lol\Downloads\EdikIvan (2)\EdikIvan (2)\EdikIvan\EdikIvan\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lol\Downloads\EdikIvan (2)\EdikIvan (2)\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.csproj.AssemblyReference.cache
+C:\Users\lol\Downloads\EdikIvan (2)\EdikIvan (2)\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.ChooseForm.resources
+C:\Users\lol\Downloads\EdikIvan (2)\EdikIvan (2)\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.LogForm.resources
+C:\Users\lol\Downloads\EdikIvan (2)\EdikIvan (2)\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.MainForm.resources
+C:\Users\lol\Downloads\EdikIvan (2)\EdikIvan (2)\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.csproj.GenerateResource.cache
+C:\Users\lol\Downloads\EdikIvan (2)\EdikIvan (2)\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lol\Downloads\EdikIvan (2)\EdikIvan (2)\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.AssemblyInfoInputs.cache
+C:\Users\lol\Downloads\EdikIvan (2)\EdikIvan (2)\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.AssemblyInfo.cs
+C:\Users\lol\Downloads\EdikIvan (2)\EdikIvan (2)\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.csproj.CoreCompileInputs.cache
+C:\Users\lol\Downloads\EdikIvan (2)\EdikIvan (2)\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.csproj.Up2Date
+C:\Users\lol\Downloads\EdikIvan (2)\EdikIvan (2)\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.dll
+C:\Users\lol\Downloads\EdikIvan (2)\EdikIvan (2)\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\refint\EdikIvan.dll
+C:\Users\lol\Downloads\EdikIvan (2)\EdikIvan (2)\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.pdb
+C:\Users\lol\Downloads\EdikIvan (2)\EdikIvan (2)\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\EdikIvan.genruntimeconfig.cache
+C:\Users\lol\Downloads\EdikIvan (2)\EdikIvan (2)\EdikIvan\EdikIvan\obj\Debug\net8.0-windows\ref\EdikIvan.dll
